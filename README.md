@@ -9,7 +9,8 @@ Formulate and answer a predictive question about a dataset of your choice using 
 
 <ol>
 <li>To formulate and answer a predictive question about a dataset of our choice using either classification or regression. To present the full analysis, from reading the data to communicating the results. </li>
-  
+<li>To strongly develop our knowledge using python and the information we have learned in class. </li>
+
 </ol>
 
 <h2>1.2 What do we want to accomplish?</h2>
@@ -85,3 +86,4 @@ Formulate and answer a predictive question about a dataset of your choice using 
 <h1>5.0 Signatures</h1>
 
 Shaun Guimond
+Keely Perry
