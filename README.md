@@ -68,6 +68,7 @@ Formulate and answer a predictive question about a dataset of your choice using 
 
 <li>Any assigned tasks will be completed and submitted to the team 8 hours before the due date. </li>
 
+<li>Members are expected to be responsive to feedback and make necessary revisions to their work based on the input provided by their peers. </li>
 
 
 </ol>
@@ -87,3 +88,4 @@ Formulate and answer a predictive question about a dataset of your choice using 
 
 Shaun Guimond
 Keely Perry
+Barmaan Ghasemi
