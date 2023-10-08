@@ -57,7 +57,6 @@ Formulate and answer a predictive question about a dataset of your choice using 
   
 </ol>
 
-// What do we expect of one another regarding attendance at meetings, participation, frequency of communication, quality of work, etc.?
 
 <h1>3.0 Policies & Procedures</h1>
 <ol>
@@ -73,15 +72,12 @@ Formulate and answer a predictive question about a dataset of your choice using 
 
 </ol>
 
-// What rules can we agree on to help us meet our goals and expectations?
 
 <h1>4.0 Consequences</h1>
 <ol>
 <li>If a member of the group does not fulfill the outlined goals, expectations and procedures outlined within this contract, an initial warning shall be made by the rest of the group to the member who has not fulfilled his duties, as written within this contract. </li>
 <li>Continued infractions by a member of the group may lead to the member being reported to a course TA or professor.</li>
 </ol>
-
-// How will we address non-performance regarding these goals, expectations, policies and procedures?
 
 
 <h1>5.0 Signatures</h1>
