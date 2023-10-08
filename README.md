@@ -89,3 +89,4 @@ Formulate and answer a predictive question about a dataset of your choice using 
 Shaun Guimond
 Keely Perry
 Barmaan Ghasemi
+Mikhail Bogdanov
