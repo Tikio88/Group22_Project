@@ -57,7 +57,6 @@ Formulate and answer a predictive question about a dataset of your choice using 
   
 </ol>
 
-// What do we expect of one another regarding attendance at meetings, participation, frequency of communication, quality of work, etc.?
 
 <h1>3.0 Policies & Procedures</h1>
 <ol>
@@ -68,11 +67,11 @@ Formulate and answer a predictive question about a dataset of your choice using 
 
 <li>Any assigned tasks will be completed and submitted to the team 8 hours before the due date. </li>
 
+<li>Members are expected to be responsive to feedback and make necessary revisions to their work based on the input provided by their peers. </li>
 
 
 </ol>
 
-// What rules can we agree on to help us meet our goals and expectations?
 
 <h1>4.0 Consequences</h1>
 <ol>
@@ -80,10 +79,10 @@ Formulate and answer a predictive question about a dataset of your choice using 
 <li>Continued infractions by a member of the group may lead to the member being reported to a course TA or professor.</li>
 </ol>
 
-// How will we address non-performance regarding these goals, expectations, policies and procedures?
-
 
 <h1>5.0 Signatures</h1>
 
 Shaun Guimond
 Keely Perry
+Barmaan Ghasemi
+Mikhail Bogdanov
